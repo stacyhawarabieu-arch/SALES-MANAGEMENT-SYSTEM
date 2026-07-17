@@ -1,2 +1,2 @@
 # SALES-MANAGEMENT-SYSTEM
-software development project
+Sales Management System project documentation and demo backlog
